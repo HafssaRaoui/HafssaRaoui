@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HafssaRaoui.HafssaRaoui" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hafssa+Raoui!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
@@ -9,14 +9,17 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 👩‍🎓 Second year Computer Science Engineering student
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💻 I have hands-on expertise in **Web Development**.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 💡 Currently exploring the realm of  **AI/ML** 
+
+ 🛠️ **Stubborn problem solver**
+
+ 🌱 **Growing and Embracing the Tech Industry every day**
+
+ ⚡ Fun fact **A day on Venus is longer than a year on Venus. It takes Venus about 243 Earth days to rotate once but only 225 Earth days to orbit the Sun.**
 
  </div>
  
