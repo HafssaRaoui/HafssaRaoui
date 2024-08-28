@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hafssa+Raoui!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate CS Student at l'EMI  </h3>
 
 <br/>
 
 <div align="center">
+    
  👩‍🎓 Second year Computer Science Engineering student
 
  💻 I have hands-on expertise in **Web Development**.
@@ -17,9 +18,9 @@
 
  🛠️ **Stubborn problem solver**
 
- 🌱 **Growing and Embracing the Tech Industry every day**
+ 🌱 **Growing** and Embracing the Tech Industry every day
 
- ⚡ Fun fact **A day on Venus is longer than a year on Venus. It takes Venus about 243 Earth days to rotate once but only 225 Earth days to orbit the Sun.**
+ ⚡ Fun fact **A day on Venus is longer than a year on Venus.** It takes Venus about 243 Earth days to rotate once but only 225 Earth days to orbit the Sun.
 
  </div>
  
