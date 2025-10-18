@@ -10,17 +10,17 @@
 
 <div align="center">
     
- 👩‍🎓 Second year Computer Science Engineering student
+ 👩‍🎓 Final-year Computer Engineering student at EMI
 
- 💻 I have hands-on expertise in **Web Development**.
+💻 Hands-on expertise in **Cloud, DevOps, and Full-Stack Development**
 
- 💡 Currently exploring the realm of  **AI/ML** 
+💡 Currently exploring **Cybersecurity, DevSecOps, and AI/ML applications**
 
- 🛠️ **Stubborn problem solver**
+🛠️ **Persistent problem solver** who loves automating and optimizing processes
 
- 🌱 **Growing** and Embracing the Tech Industry every day
+🌱 **Continuously learning** and embracing new technologies to build impactful solutions
 
- ⚡ Fun fact **A day on Venus is longer than a year on Venus.** It takes Venus about 243 Earth days to rotate once but only 225 Earth days to orbit the Sun.
+⚡ Fun fact: **A day on Venus is longer than a year on Venus** – it rotates in 243 Earth days but orbits the Sun in 225 Earth days
 
  </div>
  
@@ -39,9 +39,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,html,css,typescript,javascript,spring boot,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,c,java,mysql,git" /><br>
+    <!-- Frontend & Web -->
+    <img src="https://skillicons.dev/icons?i=angular,html,css,typescript,javascript,react" />
+    <!-- Backend & DevOps -->
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,docker,kubernetes,git,terraform,aws,azure" /><br>
+    <!-- Data & Databases -->
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,r" />
 </div>
+
 
 <br/>
 <hr/>
