@@ -81,41 +81,19 @@ State-certified engineer working in **cybersecurity consulting**, where cloud in
 ---
 
 ## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/HafssaRaoui/ccf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HafssaRaoui&repo=ccf&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="CCF, CSPM customisation framework"/>
-</a>
-<a href="https://github.com/HafssaRaoui/e-commerce-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HafssaRaoui&repo=e-commerce-app&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="DevSecOps CI/CD pipeline on Kubernetes"/>
-</a>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ CCF — CSPM Customisation Framework**
-
+ 
+### 🛡️ [CCF — CSPM Customisation Framework](https://github.com/HafssaRaoui/ccf)
+ 
 A framework for tailoring cloud security posture management to an organisation's own risk model, with automated control evaluation and findings forwarded into **Cortex XSIAM** for triage.
-
-`CSPM` `Cortex XSIAM` `Python` `Multi-cloud`
-
-</td>
-<td width="50%" valign="top">
-
-**🔄 DevSecOps CI/CD Pipeline on Kubernetes**
-
-End-to-end Jenkins pipeline with security gates at every stage — **SonarQube** static analysis, **OWASP Dependency-Check**, and **Trivy** filesystem and image scanning — deploying to a self-built Kubernetes cluster on AWS EC2.
-
-`Jenkins` `SonarQube` `Trivy` `Kubernetes` `AWS`
-
-</td>
-</tr>
-</table>
-
+ 
+`CSPM` &nbsp;`Cortex XSIAM` &nbsp;`Python` &nbsp;`Multi-cloud`
+ 
+### 🔄 [DevSecOps CI/CD Pipeline on Kubernetes](https://github.com/HafssaRaoui/e-commerce-app)
+ 
+End-to-end Jenkins pipeline with a security gate at every stage — **SonarQube** static analysis, **OWASP Dependency-Check**, and **Trivy** filesystem and image scanning — deploying to a hand-built Kubernetes cluster on AWS EC2.
+ 
+`Jenkins` &nbsp;`SonarQube` &nbsp;`Trivy` &nbsp;`Kubernetes` &nbsp;`AWS`
+ 
 ---
 
 ## 🏅 Certifications
@@ -136,12 +114,9 @@ End-to-end Jenkins pipeline with security gates at every stage — **SonarQube**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HafssaRaoui&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub stats"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=HafssaRaoui&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak"/>
 
-<br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafssaRaoui&layout=compact&langs_count=8&hide=HTML,CSS&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Top languages"/>
 
 </div>
 
