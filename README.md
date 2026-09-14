@@ -1,263 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1E3D,50:0A5BA8,100:0A84FF&text=Hafssa%20Raoui&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=38&desc=Cybersecurity%20Consultant%20%E2%80%94%20Cloud%20%C2%B7%20Identity%20%C2%B7%20Governance&descSize=16&descAlign=50&descAlignY=60" width="100%" alt="Hafssa Raoui — Cybersecurity Consultant" />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=44&duration=4000&pause=1200&color=1A7F64&center=true&vCenter=true&width=600&height=70&lines=Hafssa+Raoui" alt="Hafssa Raoui"/>
+
+### Driven by impact, powered by curiosity
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=6E7681&center=true&vCenter=true&width=620&height=30&lines=Cybersecurity+Consultant;Cloud+Security+%7C+Identity+Governance+%7C+Automation;Turning+findings+into+fixes+teams+actually+ship" alt="Roles"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=0A84FF&center=true&vCenter=true&width=560&height=32&lines=Find+how+it+breaks.+Then+automate+the+fix.;Cloud+posture+%C2%B7+Identity+governance+%C2%B7+Detection;Risk%2C+translated+into+something+a+team+can+ship." alt="tagline" />
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/hafssa-raoui-7a132924b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:hafssaraoui1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B1E3D?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://img.shields.io/badge/AZ--104-Certified-0A84FF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
-<img src="https://img.shields.io/badge/Morocco-0B1E3D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Morocco" />
+<img src="https://img.shields.io/badge/Morocco-C1272D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Morocco"/>
+<img src="https://komarev.com/ghpvc/?username=HafssaRaoui&style=for-the-badge&color=1A7F64&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
 
 </div>
 
-<br/>
+## 👋 About Me
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="" />
+State-certified engineer working in **cybersecurity consulting**, where cloud infrastructure, identity and risk meet.
 
-<br/>
+- 🔐 I assess cloud and application security posture against **CIS Benchmarks** and vendor baselines
+- 🪪 I design and audit **identity governance** — Entra ID, Conditional Access, RBAC, least privilege
+- ⚙️ I automate the parts of security work that shouldn't be done by hand twice
+- 📊 I turn findings into remediation plans a team will actually ship, not raw finding dumps
+- 🌱 Currently going deeper on **Linux, Kubernetes security and detection engineering**
+- 🎓 State Engineering Degree, **École Mohammadia d'Ingénieurs (EMI)**, Rabat
+- 💬 Ask me about cloud posture management, IAM audits, or breaking into security consulting
 
-<table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
+</div>
+
+## 🛠️ Tech Stack
+
+<table align="center">
 <tr>
-<td width="60%" valign="top">
+<td align="center" width="33%">
 
-### ◆ &nbsp;Who I am
+**☁️ Cloud & Platform**
 
-State-certified engineer *(École Mohammadia d'Ingénieurs)*, working in **cybersecurity consulting**.
-
-My work sits where cloud infrastructure, identity and risk meet — assessing configurations against CIS and vendor baselines, turning findings into remediation a team will actually ship, and automating whatever shouldn't be done by hand twice.
-
-Security is the anchor. Automation, DevOps and AI are the tooling I reach for — and where I expect the next class of risk to appear, so I keep building there too.
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 </td>
-<td width="40%" valign="top">
+<td align="center" width="33%">
 
-### ◆ &nbsp;Currently
+**🔐 Security**
 
-```yaml
-role:     Cybersecurity consultant
-domains:  [ cloud security,
-            identity governance,
-            security assessment ]
-building: security automation
-learning: Linux · Kubernetes security
-next:     advanced cloud security cert
-```
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftentraid&logoColor=white"/>
+<img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prowler-1A7F64?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/CIS_Benchmarks-1A7F64?style=flat-square&logo=cachet&logoColor=white"/>
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Engineering**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
+</div>
+
+## 📌 Featured Projects
 
 <div align="center">
 
-## ◆ &nbsp;Focus Areas
+<a href="https://github.com/HafssaRaoui/REPLACE-WITH-REPO-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HafssaRaoui&repo=REPLACE-WITH-REPO-NAME&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="AKS secrets automation"/>
+</a>
+
+<p><sub><b>AKS Secrets Automation</b> — Vault-backed secret management across AKS clusters, aligned to the CIS Kubernetes Benchmark.</sub></p>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
 
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### ☁️ Cloud Security
-
-<sub>
-Azure & AWS posture assessment<br/>
-CIS Foundations Benchmarks<br/>
-AWS Well-Architected reviews<br/>
-AKS & Kubernetes hardening
-</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🔑 Identity & Access
-
-<sub>
-Entra ID / Azure AD governance<br/>
-Conditional Access design<br/>
-RBAC & least privilege<br/>
-Access review & remediation
-</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚙️ Security Automation
-
-<sub>
-Compliance scanning pipelines<br/>
-Prowler & scripted audits<br/>
-Security gates in CI/CD<br/>
-Reporting & remediation plans
-</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="" />
-
-<br/>
+## 🏅 Certifications
 
 <div align="center">
 
-## ◆ &nbsp;Selected Work
+<img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate_(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-Certified_Associate,_Java_SE_8-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔐 &nbsp;Azure AD Identity Governance Audit
-
-Tenant-wide identity security audit, findings mapped to CIS Azure Foundations and Microsoft baselines, delivered as a prioritised remediation path.
-
-`Entra ID` `Conditional Access` `PowerShell`
-
-**[→ View repository](#)**
-
-</td>
-<td width="50%" valign="top">
-
-#### ☁️ &nbsp;AWS Compliance Automation
-
-Automated conformance scanning against the CIS AWS Foundations Benchmark — generating reports and remediation plans, not raw finding dumps.
-
-`AWS` `Prowler` `Python`
-
-**[→ View repository](#)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛡️ &nbsp;SOC & Honeynet on Azure
-
-Intentionally exposed honeynet feeding real attack telemetry into Sentinel, with security KPIs measured before and after hardening.
-
-`Microsoft Sentinel` `Log Analytics` `KQL`
-
-**[→ View repository](#)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗝️ &nbsp;AKS Secrets Automation
-
-Vault-backed secret management across AKS clusters, aligned to the CIS Kubernetes Benchmark.
-
-`AKS` `HashiCorp Vault` `Terraform`
-
-**[→ View repository](#)**
-
-</td>
-</tr>
-</table>
-
-<br/>
+## 📊 GitHub Activity
 
 <div align="center">
 
-## ◆ &nbsp;Toolbox
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HafssaRaoui&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=HafssaRaoui&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak"/>
 
 <br/>
 
-**Cloud & Platform**
-
-<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,linux&theme=dark" alt="cloud stack" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafssaRaoui&layout=compact&langs_count=8&hide=HTML,CSS&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Top languages"/>
 
 <br/><br/>
 
-**Security**
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HafssaRaoui&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution graph"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0A84FF?style=flat-square&logo=microsoftazure&logoColor=white" alt="Sentinel" />
-<img src="https://img.shields.io/badge/Defender_for_Cloud-0A84FF?style=flat-square&logo=microsoft&logoColor=white" alt="Defender" />
-<img src="https://img.shields.io/badge/Entra_ID-0A84FF?style=flat-square&logo=microsoftentraid&logoColor=white" alt="Entra ID" />
-<img src="https://img.shields.io/badge/Prowler-0B1E3D?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Prowler" />
-<img src="https://img.shields.io/badge/CIS_Benchmarks-0B1E3D?style=flat-square&logo=cachet&logoColor=white" alt="CIS" />
-<img src="https://img.shields.io/badge/HashiCorp_Vault-0B1E3D?style=flat-square&logo=vault&logoColor=white" alt="Vault" />
-
-<br/><br/>
-
-**Engineering**
-
-<img src="https://skillicons.dev/icons?i=python,bash,git,githubactions,gitlab,mysql&theme=dark" alt="engineering stack" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-<img src="https://img.shields.io/badge/KQL-0A84FF?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Scrum-0B1E3D?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
-
-<br/>
-
-<sub><i>Full-stack and data background (Angular, React, Node, Java, R) — kept sharp, not the headline.</i></sub>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
 
 </div>
 
-<br/>
+## 🎯 Beyond Code
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="" />
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◆ &nbsp;Certifications
-
-<img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
-
-<img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
-
-<img src="https://img.shields.io/badge/Oracle-Certified_Associate,_Java_SE_8-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCA Java" />
-
-</td>
-<td width="50%" valign="top">
-
-### ◆ &nbsp;Beyond the terminal
-
-**IT Cell Lead — Tel&Power Club**
-Led a team of 15, ran hands-on technical workshops, mentored competition project teams.
-
-**Great Debaters Club**
-Competed and won in English and French. Structured argument is the same muscle as a good risk write-up.
-
-🇲🇦 Arabic · 🇫🇷 French · 🇬🇧 English
-
-</td>
-</tr>
-</table>
+- 👥 **IT Cell Lead, Tel&Power Club** — led a team of 15, ran technical workshops, mentored project teams
+- 🎤 **Great Debaters Club** — competed and won in English and French; structured argument is the same muscle as a good risk write-up
+- 🌍 **Languages** — Arabic, French, English
 
 <br/>
 
 <div align="center">
 
-## ◆ &nbsp;Activity
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HafssaRaoui&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0A84FF&icon_color=0A84FF&text_color=808080&border_radius=10" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafssaRaoui&layout=compact&langs_count=6&hide=HTML,CSS&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=808080&border_radius=10" alt="Top languages" />
+<i>Open to conversations on cloud security, identity governance and security automation.</i>
 
 <br/><br/>
 
-<sub>Open to conversations on cloud security, identity governance and security automation.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0A84FF,50:0A5BA8,100:0B1E3D" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1A7F64,100:0078D4&section=footer" width="100%" alt=""/>
 
 </div>
