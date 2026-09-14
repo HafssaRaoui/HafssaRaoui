@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=44&duration=4000&pause=1200&color=1A7F64&center=true&vCenter=true&width=600&height=70&lines=Hafssa+Raoui" alt="Hafssa Raoui"/>
 
-### Driven by impact, powered by curiosity
-
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=6E7681&center=true&vCenter=true&width=620&height=30&lines=Cybersecurity+Consultant;Cloud+Security+%7C+Identity+Governance+%7C+Automation;Turning+findings+into+fixes+teams+actually+ship" alt="Roles"/>
 
 <br/>
