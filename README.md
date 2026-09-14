@@ -17,9 +17,9 @@
 <img src="https://img.shields.io/badge/Morocco-C1272D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Morocco"/>
 <img src="https://komarev.com/ghpvc/?username=HafssaRaoui&style=for-the-badge&color=1A7F64&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
-
 </div>
+
+---
 
 ## 👋 About Me
 
@@ -33,9 +33,7 @@ State-certified engineer working in **cybersecurity consulting**, where cloud in
 - 🎓 State Engineering Degree, **École Mohammadia d'Ingénieurs (EMI)**, Rabat
 - 💬 Ask me about cloud posture management, IAM audits, or breaking into security consulting
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
-</div>
+---
 
 ## 🛠️ Tech Stack
 
@@ -80,23 +78,7 @@ State-certified engineer working in **cybersecurity consulting**, where cloud in
 </tr>
 </table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
-</div>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/HafssaRaoui/REPLACE-WITH-REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HafssaRaoui&repo=REPLACE-WITH-REPO-NAME&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="AKS secrets automation"/>
-</a>
-
-<p><sub><b>AKS Secrets Automation</b> — Vault-backed secret management across AKS clusters, aligned to the CIS Kubernetes Benchmark.</sub></p>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
-
-</div>
+---
 
 ## 🏅 Certifications
 
@@ -108,43 +90,30 @@ State-certified engineer working in **cybersecurity consulting**, where cloud in
 
 <img src="https://img.shields.io/badge/Oracle-Certified_Associate,_Java_SE_8-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
-
 </div>
 
-## 📊 GitHub Activity
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HafssaRaoui&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub stats"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=HafssaRaoui&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak"/>
 
-<br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafssaRaoui&layout=compact&langs_count=8&hide=HTML,CSS&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HafssaRaoui&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution graph"/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/divider.png" width="100%" alt=""/>
 
 </div>
+
+---
 
 ## 🎯 Beyond Code
 
-- 👥 **IT Cell Lead, Tel&Power Club** — led a team of 15, ran technical workshops, mentored project teams
-- 🎤 **Great Debaters Club** — competed and won in English and French; structured argument is the same muscle as a good risk write-up
-- 🌍 **Languages** — Arabic, French, English
+- 👥 **IT Cell Lead, Tel&Power Club** : led a team of 15, ran technical workshops, mentored project teams
+- 🎤 **Great Debaters Club** : competed and won in English and French; structured argument is the same muscle as a good risk write-up
+- 🌍 **Languages** : Arabic, French, English
 
-<br/>
+---
 
 <div align="center">
-
 <i>Open to conversations on cloud security, identity governance and security automation.</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1A7F64,100:0078D4&section=footer" width="100%" alt=""/>
-
 </div>
